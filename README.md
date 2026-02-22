@@ -105,10 +105,8 @@ conda env create -f environment.yml
 
 ## About the Author
 
-Josip Vincek\
-Computational Subsurface Engineering \| Rock Mechanics, Energy &
-Infrastructure\
-PhD Researcher
+**Josip Vincek**
+*Computational Subsurface Engineering | Rock Mechanics, Energy & Infrastructure | PhD Researcher*
 
 This repository reflects ongoing work in analytical modelling,
 computational geomechanics, and engineering-oriented stability
